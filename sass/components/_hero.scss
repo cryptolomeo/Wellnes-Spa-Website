@@ -1,13 +1,14 @@
 @use '../abstracts/' as *;
 .hero {
-    max-width: 50%;
-    margin-top:50px;
-    padding-bottom: 50px;
+    max-width: 45%;
+    margin-top:35px;
+    padding-bottom: 35px;
     
     &__title {
         font-weight: 700;
-        font-size: 50px;
+        font-size: 45px;
         margin-bottom: 30px;
+        color:$dark-blue
     }
 
     &__subtitle {
