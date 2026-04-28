@@ -19,7 +19,7 @@ $dark-blue: #264065 !default;
 
 /// Dark blue color, primary color
 /// @type Color
-$hover-dark-blue: color.adjust($dark-blue, $lightness: 25%) !default;
+$hover-dark-blue: color.adjust(#00383d, $lightness: 25%) !default;
 
 /// Cyan color, secondary color
 /// @type Color
